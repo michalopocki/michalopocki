@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michalopocki
 - 👀 I’m interested in C#/.NET
-- 🌱 I’m currently learning WPF MVVM, Entity Framework Core
+- 🌱 I’m currently learning WPF MVVM, ASP.NET Core, Entity Framework Core
 
 <!---
 michalopocki/michalopocki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
